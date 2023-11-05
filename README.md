@@ -1,0 +1,1 @@
+Googleでオモコロを検索して5秒後に閉じる# omocorosearch
